@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+
+@media (min-width: 768px) {
+    .offers-background {
+        background-image: url("/offerBg.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+}
